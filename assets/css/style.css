@@ -1,0 +1,232 @@
+body {
+    margin: 0px;
+}
+
+.prinCipal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 201.500px 0px 201.500px;
+    padding: 20px 0px;
+}
+
+#img1 {
+    height: 106px;
+    margin: -28px;
+    padding-bottom: 15px;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+    padding: 5px 11px 0px 0px;
+    flex-direction: row;
+}
+
+li a {
+    text-decoration: none;
+    color: #737373;
+    font-size: 12px;
+    font-family: system-ui, "system-ui", ".SFNSText-Regular", sans-serif;
+}
+
+.logoface {
+    justify-content: center;
+    align-items: center;
+    padding-top: 110px;
+}
+
+.margen1 {
+    padding-top: 72px;
+    padding-bottom: 112px;
+}
+
+.fondo1 {
+    background-color: #f0f2f5;
+}
+
+.texto1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-bottom: 200px;
+}
+
+.conjunto1 {
+    display: flex;
+    flex-direction: column;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.registr {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: transparent;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 24px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.fue_te {
+    font-family: system-ui, "system-ui", ".SFNSText-Regular", sans-serif;
+    text-decoration: none;
+}
+
+#iput1 {
+    padding: 14px 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+}
+
+#iput2 {
+    padding: 14px 16px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+}
+
+input {
+    width: 330px;
+    font-size: 17px;
+}
+
+.salto1 {
+    padding: 6px 0px;
+}
+
+.buttonn {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 93%;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#ggg {
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.tefu {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.hshs {
+    margin: 16px;
+}
+
+.separa {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+
+.eses {
+    padding-top: 6px;
+}
+
+.sese {
+    color: #ffffff;
+}
+
+.buttonn2 {
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    font-weight: bold;
+}
+
+.funet {
+    font-family: system-ui, "system-ui", ".SFNSText-Regular", sans-serif;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ggjj {
+    margin-top: 28px;
+}
+
+.just {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    padding: 8px 0px;
+}
+
+.idiomas {
+    margin: 0px 201.500px;
+}
+
+.separadoOr {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 8px 0px;
+    text-align: center;
+}
+
+.margin4 {
+    padding-top: 20px;
+}
+
+.fontt {
+    font-size: 11px;
+    font-family: system-ui, "system-ui", ".SFNSText-Regular", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #737373;
+}
+
+.margen5 {
+    display: flex;
+    margin: 0px;
+    padding: 7px 0px 0px 0px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#ff4ff {
+    text-decoration: none;
+    color: #737373;
+    font-size: 12px;
+    font-family: system-ui, "system-ui", ".SFNSText-Regular", sans-serif;
+}
+
+
+.plusss {
+    display: flex;
+    align-items: center;
+    height: 18px;
+    padding: 5px;
+}
+
+.buttonn:hover{
+    background-color: #0359ca;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.fue_te:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
